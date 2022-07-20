@@ -1,6 +1,6 @@
 # SITIO WEB 
 
-Este proyecto es un sirio web 
+Este proyecto es un sirio web: `index.html`
 
 ## Documentacion 
 
@@ -14,3 +14,7 @@ Para añadir un bloque de codigo HTML , usamos el siguiente ejemplo :
 <html></html>
 
 ```
+
+## Autores
+1. David 
+2. Jhonn
